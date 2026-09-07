@@ -1,0 +1,72 @@
+{
+  "narrators": [
+    {
+      "id": "nabil_alawadhy",
+      "displayName": {
+        "en": "Nabil Al-Awadhy",
+        "ar": "نبيل العوضي",
+        "fr": "Nabil Al-Awadhy",
+        "bn": "নবীল আল-আওয়াদি",
+        "in": "Nabil Al-Awadhy",
+        "ur": "نبیل العوضی"
+      },
+      "languages": ["ar"]
+    }
+  ],
+  "stories": [
+    {
+      "id": "adam",
+      "order": 1,
+      "displayName": {
+        "en": "Adam",
+        "ar": "آدم",
+        "fr": "Adam",
+        "bn": "আদম",
+        "in": "Adam",
+        "ur": "آدم"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": { "file": "nabil_alawadhy/ar/adam.mp3", "sizeBytes": 0 }
+        }
+      },
+      "textAsset": "adam.txt"
+    },
+    {
+      "id": "nuh",
+      "order": 2,
+      "displayName": {
+        "en": "Nuh (Noah)",
+        "ar": "نوح",
+        "fr": "Noé",
+        "bn": "নূহ",
+        "in": "Nuh",
+        "ur": "نوح"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": { "file": "nabil_alawadhy/ar/nuh.mp3", "sizeBytes": 0 }
+        }
+      },
+      "textAsset": "nuh.txt"
+    },
+    {
+      "id": "yunus",
+      "order": 3,
+      "displayName": {
+        "en": "Yunus (Jonah)",
+        "ar": "يونس",
+        "fr": "Jonas",
+        "bn": "ইউনুস",
+        "in": "Yunus",
+        "ur": "یونس"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": { "file": "nabil_alawadhy/ar/yunus.mp3", "sizeBytes": 0 }
+        }
+      },
+      "textAsset": "yunus.txt"
+    }
+  ]
+}
