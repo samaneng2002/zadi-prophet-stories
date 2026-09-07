@@ -10,17 +10,114 @@
         "in": "Nabil Al-Awadhy",
         "ur": "نبیل العوضی"
       },
-      "languages": ["ar"]
+      "languages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "ismail_menk",
+      "displayName": {
+        "en": "Mufti Ismail Menk",
+        "ar": "مفتي إسماعيل مينك",
+        "fr": "Mufti Ismail Menk",
+        "bn": "মুফতি ইসমাইল মেনক",
+        "in": "Mufti Ismail Menk",
+        "ur": "مفتی اسماعیل مینک"
+      },
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "youssef_abou_anas",
+      "displayName": {
+        "en": "Youssef Abou Anas",
+        "ar": "يوسف أبو أنس",
+        "fr": "Youssef Abou Anas",
+        "bn": "ইউসুফ আবু আনাস",
+        "in": "Youssef Abou Anas",
+        "ur": "یوسف ابو انس"
+      },
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "id": "abdullah_shaleh_hadrami",
+      "displayName": {
+        "en": "Abdullah Shaleh Hadrami",
+        "ar": "عبد الله صالح حضرمي",
+        "fr": "Abdullah Shaleh Hadrami",
+        "bn": "আব্দুল্লাহ সালেহ হাদরামি",
+        "in": "Abdullah Shaleh Hadrami",
+        "ur": "عبداللہ صالح حضرمی"
+      },
+      "languages": [
+        "in"
+      ]
+    },
+    {
+      "id": "qisas_ibn_kathir_urdu",
+      "displayName": {
+        "en": "Qisas-ul-Ambiya (Ibn Kathir)",
+        "ar": "قصص الأنبياء (ابن كثير)",
+        "fr": "Qisas-ul-Ambiya (Ibn Kathir)",
+        "bn": "কিসাসুল আম্বিয়া (ইবনে কাসীর)",
+        "in": "Qisas-ul-Ambiya (Ibn Kathir)",
+        "ur": "قصص الانبیاء (ابن کثیر)"
+      },
+      "languages": [
+        "ur"
+      ]
     }
   ],
   "stories": [
     {
       "id": "adam",
       "order": 1,
-      "displayName": { "en": "Adam", "ar": "آدم", "fr": "Adam", "bn": "আদম", "in": "Adam", "ur": "آدم" },
+      "displayName": {
+        "en": "Adam",
+        "ar": "آدم",
+        "fr": "Adam",
+        "bn": "আদম",
+        "in": "Adam",
+        "ur": "آدم"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "01 - قصة آدم (عليه الصلاة و السلام).mp3", "sizeBytes": 67807006 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "01 - قصة آدم (عليه الصلاة و السلام).mp3",
+            "sizeBytes": 67807006
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "02 - Creation Of Aadam (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 22766208
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "01_histoire_prophete_adam_1.mp3",
+            "sizeBytes": 8694710
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 01 Mukaddimah dan Penciptaan Nabi Adam.mp3",
+            "sizeBytes": 12684884
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "01 - Qissa_Sayyidena_Adam - TAKHLIQ-E-QAINAT.mp3",
+            "sizeBytes": 20886778
+          }
         }
       },
       "textAsset": "adam.txt"
@@ -28,17 +125,85 @@
     {
       "id": "idris",
       "order": 2,
-      "displayName": { "en": "Idris", "ar": "إدريس", "fr": "Idris", "bn": "ইদরিস", "in": "Idris", "ur": "ادریس" },
-      "narrations": {},
+      "displayName": {
+        "en": "Idris",
+        "ar": "إدريس",
+        "fr": "Idris",
+        "bn": "ইদরিস",
+        "in": "Idris",
+        "ur": "ادریس"
+      },
+      "narrations": {
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "06 - Idrees (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 25166470
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 03 Kisah Nabi Idris.mp3",
+            "sizeBytes": 13715709
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "03 - Qissa_Sayyidena_Idris - FASAD-KI-IBTEDA.mp3",
+            "sizeBytes": 19133722
+          }
+        }
+      },
       "textAsset": "idris.txt"
     },
     {
       "id": "nuh",
       "order": 3,
-      "displayName": { "en": "Nuh (Noah)", "ar": "نوح", "fr": "Noé", "bn": "নূহ", "in": "Nuh", "ur": "نوح" },
+      "displayName": {
+        "en": "Nuh (Noah)",
+        "ar": "نوح",
+        "fr": "Noé",
+        "bn": "নূহ",
+        "in": "Nuh",
+        "ur": "نوح"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "02 - قصة نوح (عليه الصلاة و السلام).mp3", "sizeBytes": 68469556 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "02 - قصة نوح (عليه الصلاة و السلام).mp3",
+            "sizeBytes": 68469556
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "07 - Nuh (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 27625742
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "04_histoire_prophete_noe_1.mp3",
+            "sizeBytes": 9885188
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 05 Kisah Nabi Nuh.mp3",
+            "sizeBytes": 14887456
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "04 - Qissa_Sayyidena_Nooh - SHIRK-KA-AGAZ.mp3",
+            "sizeBytes": 19244872
+          }
         }
       },
       "textAsset": "nuh.txt"
@@ -46,10 +211,49 @@
     {
       "id": "hud",
       "order": 4,
-      "displayName": { "en": "Hud", "ar": "هود", "fr": "Houd", "bn": "হুদ", "in": "Hud", "ur": "ہود" },
+      "displayName": {
+        "en": "Hud",
+        "ar": "هود",
+        "fr": "Houd",
+        "bn": "হুদ",
+        "in": "Hud",
+        "ur": "ہود"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "03 - قصة هود و صالح (عليهما الصلاة و السلام).mp3", "sizeBytes": 68802607 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "03 - قصة هود و صالح (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 68802607
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "08 - Hud (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 25455698
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "06_histoire_prophete_houd.mp3",
+            "sizeBytes": 8254818
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 06 Kisah Nabi Hud.mp3",
+            "sizeBytes": 10280710
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "05 - Qissa_Sayyidena_Saleh - IBRAT-NAK-ANJAM.mp3",
+            "sizeBytes": 25866298
+          }
         }
       },
       "textAsset": "hud.txt"
@@ -57,10 +261,49 @@
     {
       "id": "salih",
       "order": 5,
-      "displayName": { "en": "Salih", "ar": "صالح", "fr": "Salih", "bn": "সালিহ", "in": "Saleh", "ur": "صالح" },
+      "displayName": {
+        "en": "Salih",
+        "ar": "صالح",
+        "fr": "Salih",
+        "bn": "সালিহ",
+        "in": "Saleh",
+        "ur": "صالح"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "03 - قصة هود و صالح (عليهما الصلاة و السلام).mp3", "sizeBytes": 68802607 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "03 - قصة هود و صالح (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 68802607
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "09 - Saalih (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 26816782
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "07_histoire_prophete_salih.mp3",
+            "sizeBytes": 6534500
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 07 Kisah Nabi Sholih.mp3",
+            "sizeBytes": 11004827
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "05 - Qissa_Sayyidena_Saleh - IBRAT-NAK-ANJAM.mp3",
+            "sizeBytes": 25866298
+          }
         }
       },
       "textAsset": "salih.txt"
@@ -68,10 +311,49 @@
     {
       "id": "ibrahim",
       "order": 6,
-      "displayName": { "en": "Ibrahim (Abraham)", "ar": "إبراهيم", "fr": "Ibrahim", "bn": "ইব্রাহিম", "in": "Ibrahim", "ur": "ابراہیم" },
+      "displayName": {
+        "en": "Ibrahim (Abraham)",
+        "ar": "إبراهيم",
+        "fr": "Ibrahim",
+        "bn": "ইব্রাহিম",
+        "in": "Ibrahim",
+        "ur": "ابراہیم"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "04 - قصة إبراهيم (عليه الصلاة و السلام).mp3", "sizeBytes": 68216301 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "04 - قصة إبراهيم (عليه الصلاة و السلام).mp3",
+            "sizeBytes": 68216301
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "10 - Ibraheem (as) - Part 1 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 19455894
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "08_histoire_prophete_ibrahim_1.mp3",
+            "sizeBytes": 5636321
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 08 Kisah Nabi Ibrahim.mp3",
+            "sizeBytes": 12899437
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "06 - Qissa_Sayyidena_Ibrahim - BUT-SHIKAN.mp3",
+            "sizeBytes": 19402408
+          }
         }
       },
       "textAsset": "ibrahim.txt"
@@ -79,10 +361,49 @@
     {
       "id": "lut",
       "order": 7,
-      "displayName": { "en": "Lut (Lot)", "ar": "لوط", "fr": "Loth", "bn": "লূত", "in": "Luth", "ur": "لوط" },
+      "displayName": {
+        "en": "Lut (Lot)",
+        "ar": "لوط",
+        "fr": "Loth",
+        "bn": "লূত",
+        "in": "Luth",
+        "ur": "لوط"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3", "sizeBytes": 71232901 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 71232901
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "14 - Lut (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 22454751
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "12_histoire_prophete_lot.mp3",
+            "sizeBytes": 8016406
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 09 Kisah Nabi Luth.mp3",
+            "sizeBytes": 13115415
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "08 - Qissa_Sayyidena_Ibrahim_Loot - BATTARIN-LOG.mp3",
+            "sizeBytes": 18557170
+          }
         }
       },
       "textAsset": "lut.txt"
@@ -90,10 +411,35 @@
     {
       "id": "ismail",
       "order": 8,
-      "displayName": { "en": "Ismail (Ishmael)", "ar": "إسماعيل", "fr": "Ismaël", "bn": "ইসমাইল", "in": "Ismail", "ur": "اسماعیل" },
+      "displayName": {
+        "en": "Ismail (Ishmael)",
+        "ar": "إسماعيل",
+        "fr": "Ismaël",
+        "bn": "ইসমাইল",
+        "in": "Ismail",
+        "ur": "اسماعیل"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3", "sizeBytes": 71232901 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 71232901
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "12 - Ibraheem (as) and Ismail (as) - Part 3 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 22891727
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "07 - Qissa_Sayyidena_Ibrahim_Ismail_Ishaque - AMAN-WALA-GHAR.mp3",
+            "sizeBytes": 19467898
+          }
         }
       },
       "textAsset": "ismail.txt"
@@ -101,10 +447,28 @@
     {
       "id": "ishaq",
       "order": 9,
-      "displayName": { "en": "Ishaq (Isaac)", "ar": "إسحاق", "fr": "Isaac", "bn": "ইসহাক", "in": "Ishaq", "ur": "اسحاق" },
+      "displayName": {
+        "en": "Ishaq (Isaac)",
+        "ar": "إسحاق",
+        "fr": "Isaac",
+        "bn": "ইসহাক",
+        "in": "Ishaq",
+        "ur": "اسحاق"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3", "sizeBytes": 71232901 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 71232901
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "07 - Qissa_Sayyidena_Ibrahim_Ismail_Ishaque - AMAN-WALA-GHAR.mp3",
+            "sizeBytes": 19467898
+          }
         }
       },
       "textAsset": "ishaq.txt"
@@ -112,10 +476,42 @@
     {
       "id": "yaqub",
       "order": 10,
-      "displayName": { "en": "Yaqub (Jacob)", "ar": "يعقوب", "fr": "Jacob", "bn": "ইয়াকুব", "in": "Yaqub", "ur": "یعقوب" },
+      "displayName": {
+        "en": "Yaqub (Jacob)",
+        "ar": "يعقوب",
+        "fr": "Jacob",
+        "bn": "ইয়াকুব",
+        "in": "Yaqub",
+        "ur": "یعقوب"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "06 - قصة يوسف (عليه الصلاة و السلام).mp3", "sizeBytes": 72178954 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "06 - قصة يوسف (عليه الصلاة و السلام).mp3",
+            "sizeBytes": 72178954
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "15 - Yaqub (as) and Yusuf (as) Part 1 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 22748367
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 10 Kisah Nabi Yusuf & Ya'kub 01.mp3",
+            "sizeBytes": 12501654
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "09 - Qissa_Sayyidena_Yusuf - HASAD-KI-AAG.mp3",
+            "sizeBytes": 25889320
+          }
         }
       },
       "textAsset": "yaqub.txt"
@@ -123,10 +519,42 @@
     {
       "id": "yusuf",
       "order": 11,
-      "displayName": { "en": "Yusuf (Joseph)", "ar": "يوسف", "fr": "Joseph", "bn": "ইউসুফ", "in": "Yusuf", "ur": "یوسف" },
+      "displayName": {
+        "en": "Yusuf (Joseph)",
+        "ar": "يوسف",
+        "fr": "Joseph",
+        "bn": "ইউসুফ",
+        "in": "Yusuf",
+        "ur": "یوسف"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "06 - قصة يوسف (عليه الصلاة و السلام).mp3", "sizeBytes": 72178954 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "06 - قصة يوسف (عليه الصلاة و السلام).mp3",
+            "sizeBytes": 72178954
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "16 - Yusuf (as) - Part 2 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 26627028
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 10 Kisah Nabi Yusuf & Ya'kub 01.mp3",
+            "sizeBytes": 12501654
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "09 - Qissa_Sayyidena_Yusuf - HASAD-KI-AAG.mp3",
+            "sizeBytes": 25889320
+          }
         }
       },
       "textAsset": "yusuf.txt"
@@ -134,10 +562,42 @@
     {
       "id": "ayyub",
       "order": 12,
-      "displayName": { "en": "Ayyub (Job)", "ar": "أيوب", "fr": "Job", "bn": "আইয়ুব", "in": "Ayyub", "ur": "ایوب" },
+      "displayName": {
+        "en": "Ayyub (Job)",
+        "ar": "أيوب",
+        "fr": "Job",
+        "bn": "আইয়ুব",
+        "in": "Ayyub",
+        "ur": "ایوب"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3", "sizeBytes": 80615726 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 80615726
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "18 - Ayoub (as) and Yunus (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 23023384
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 14 Kisah Nabi Ayyub.mp3",
+            "sizeBytes": 11899468
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "11 - Qissa_Sayyidena_Ayyub_Yunus_Zulkifl - SABAR-KA-BADLA.mp3",
+            "sizeBytes": 26927656
+          }
         }
       },
       "textAsset": "ayyub.txt"
@@ -145,10 +605,49 @@
     {
       "id": "shuayb",
       "order": 13,
-      "displayName": { "en": "Shu'ayb", "ar": "شعيب", "fr": "Chou'ayb", "bn": "শুয়াইব", "in": "Syu'aib", "ur": "شعیب" },
+      "displayName": {
+        "en": "Shu'ayb",
+        "ar": "شعيب",
+        "fr": "Chou'ayb",
+        "bn": "শুয়াইব",
+        "in": "Syu'aib",
+        "ur": "شعیب"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3", "sizeBytes": 71232901 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "05 - قصة لوط و شعيب و إسماعيل و إسحاق (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 71232901
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "24 - Shu'ayb (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 24678920
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "13_histoire_prophete_chouayb.mp3",
+            "sizeBytes": 10397425
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 16 Kisah Nabi Syu'aib.mp3",
+            "sizeBytes": 11091032
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "12 - Qissa_Sayyidena_Musa_Shoaib - KAM-TOLNE-WALEY.mp3",
+            "sizeBytes": 21808126
+          }
         }
       },
       "textAsset": "shuayb.txt"
@@ -156,10 +655,49 @@
     {
       "id": "musa",
       "order": 14,
-      "displayName": { "en": "Musa (Moses)", "ar": "موسى", "fr": "Moïse", "bn": "মূসা", "in": "Musa", "ur": "موسیٰ" },
+      "displayName": {
+        "en": "Musa (Moses)",
+        "ar": "موسى",
+        "fr": "Moïse",
+        "bn": "মূসা",
+        "in": "Musa",
+        "ur": "موسیٰ"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3", "sizeBytes": 80615726 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 80615726
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "19 - Musa (as) and Haroon (as) - Part 1 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 25667603
+          }
+        },
+        "youssef_abou_anas": {
+          "fr": {
+            "archiveOrgItem": "Histoires_des_Prophetes",
+            "archiveOrgFile": "14_histoire_prophete__moussa_1.mp3",
+            "sizeBytes": 7241320
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 17 Kisah Nabi Musa & Harun 01.mp3",
+            "sizeBytes": 15457042
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "13 - Qissa_Sayyidena_Musa - MUQADDAS-VADI.mp3",
+            "sizeBytes": 24575176
+          }
         }
       },
       "textAsset": "musa.txt"
@@ -167,10 +705,42 @@
     {
       "id": "harun",
       "order": 15,
-      "displayName": { "en": "Harun (Aaron)", "ar": "هارون", "fr": "Aaron", "bn": "হারুন", "in": "Harun", "ur": "ہارون" },
+      "displayName": {
+        "en": "Harun (Aaron)",
+        "ar": "هارون",
+        "fr": "Aaron",
+        "bn": "হারুন",
+        "in": "Harun",
+        "ur": "ہارون"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3", "sizeBytes": 80615726 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 80615726
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "19 - Musa (as) and Haroon (as) - Part 1 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 25667603
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 17 Kisah Nabi Musa & Harun 01.mp3",
+            "sizeBytes": 15457042
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "15 - Qissa_Sayyidena_Musa_Harun - SONE-KA-BACHRA.mp3",
+            "sizeBytes": 26175058
+          }
         }
       },
       "textAsset": "harun.txt"
@@ -178,17 +748,71 @@
     {
       "id": "dhulkifl",
       "order": 16,
-      "displayName": { "en": "Dhul-Kifl", "ar": "ذو الكفل", "fr": "Dhûl-Kifl", "bn": "যুল-কিফল", "in": "Dzulkifli", "ur": "ذوالکفل" },
-      "narrations": {},
+      "displayName": {
+        "en": "Dhul-Kifl",
+        "ar": "ذو الكفل",
+        "fr": "Dhûl-Kifl",
+        "bn": "যুল-কিফল",
+        "in": "Dzulkifli",
+        "ur": "ذوالکفل"
+      },
+      "narrations": {
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "28 - Sulayman -P2 , Ilyaas, Dhul Kifl, Zakariyyah, Yahya (as) - Mufti Menk.mp3",
+            "sizeBytes": 32777716
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "11 - Qissa_Sayyidena_Ayyub_Yunus_Zulkifl - SABAR-KA-BADLA.mp3",
+            "sizeBytes": 26927656
+          }
+        }
+      },
       "textAsset": "dhulkifl.txt"
     },
     {
       "id": "dawud",
       "order": 17,
-      "displayName": { "en": "Dawud (David)", "ar": "داود", "fr": "David", "bn": "দাউদ", "in": "Dawud", "ur": "داؤد" },
+      "displayName": {
+        "en": "Dawud (David)",
+        "ar": "داود",
+        "fr": "David",
+        "bn": "দাউদ",
+        "in": "Dawud",
+        "ur": "داؤد"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3", "sizeBytes": 81223749 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 81223749
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "26 - Dawud (as) - Part 2 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 20276556
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 21 Kisah Nabi Dawud.mp3",
+            "sizeBytes": 10663928
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "18 - Qissa_Sayyidena_Dawod_Sulaiman - BE_MISAL-BADSHAHAT.mp3",
+            "sizeBytes": 25150114
+          }
         }
       },
       "textAsset": "dawud.txt"
@@ -196,10 +820,35 @@
     {
       "id": "sulayman",
       "order": 18,
-      "displayName": { "en": "Sulayman (Solomon)", "ar": "سليمان", "fr": "Salomon", "bn": "সুলাইমান", "in": "Sulaiman", "ur": "سلیمان" },
+      "displayName": {
+        "en": "Sulayman (Solomon)",
+        "ar": "سليمان",
+        "fr": "Salomon",
+        "bn": "সুলাইমান",
+        "in": "Sulaiman",
+        "ur": "سلیمان"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3", "sizeBytes": 81223749 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 81223749
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "27 - Sulayman (as) - Part 1 - Mufti Ismail Menk.mp3",
+            "sizeBytes": 25555799
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "18 - Qissa_Sayyidena_Dawod_Sulaiman - BE_MISAL-BADSHAHAT.mp3",
+            "sizeBytes": 25150114
+          }
         }
       },
       "textAsset": "sulayman.txt"
@@ -207,24 +856,93 @@
     {
       "id": "ilyas",
       "order": 19,
-      "displayName": { "en": "Ilyas (Elijah)", "ar": "إلياس", "fr": "Élie", "bn": "ইলিয়াস", "in": "Ilyas", "ur": "الیاس" },
-      "narrations": {},
+      "displayName": {
+        "en": "Ilyas (Elijah)",
+        "ar": "إلياس",
+        "fr": "Élie",
+        "bn": "ইলিয়াস",
+        "in": "Ilyas",
+        "ur": "الیاس"
+      },
+      "narrations": {
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "28 - Sulayman -P2 , Ilyaas, Dhul Kifl, Zakariyyah, Yahya (as) - Mufti Menk.mp3",
+            "sizeBytes": 32777716
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "17 - Qissa_Sayyidena_Usha_Ilyas_Ysaa - SANDUQUE-KI-WAPSI.mp3",
+            "sizeBytes": 18459298
+          }
+        }
+      },
       "textAsset": "ilyas.txt"
     },
     {
       "id": "alyasa",
       "order": 20,
-      "displayName": { "en": "Al-Yasa (Elisha)", "ar": "اليسع", "fr": "Élisée", "bn": "আল-ইয়াসা", "in": "Ilyasa", "ur": "الیسع" },
-      "narrations": {},
+      "displayName": {
+        "en": "Al-Yasa (Elisha)",
+        "ar": "اليسع",
+        "fr": "Élisée",
+        "bn": "আল-ইয়াসা",
+        "in": "Ilyasa",
+        "ur": "الیسع"
+      },
+      "narrations": {
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "17 - Qissa_Sayyidena_Usha_Ilyas_Ysaa - SANDUQUE-KI-WAPSI.mp3",
+            "sizeBytes": 18459298
+          }
+        }
+      },
       "textAsset": "alyasa.txt"
     },
     {
       "id": "yunus",
       "order": 21,
-      "displayName": { "en": "Yunus (Jonah)", "ar": "يونس", "fr": "Jonas", "bn": "ইউনুস", "in": "Yunus", "ur": "یونس" },
+      "displayName": {
+        "en": "Yunus (Jonah)",
+        "ar": "يونس",
+        "fr": "Jonas",
+        "bn": "ইউনুস",
+        "in": "Yunus",
+        "ur": "یونس"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3", "sizeBytes": 80615726 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "07 - قصة أيوب و يونس و موسي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 80615726
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "18 - Ayoub (as) and Yunus (as) - Mufti Ismail Menk.mp3",
+            "sizeBytes": 23023384
+          }
+        },
+        "abdullah_shaleh_hadrami": {
+          "in": {
+            "archiveOrgItem": "kisahnabidanrasul",
+            "archiveOrgFile": "Abdullah Shaleh Hadrami - 15 Kisah Nabi Yunus.mp3",
+            "sizeBytes": 12125166
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "11 - Qissa_Sayyidena_Ayyub_Yunus_Zulkifl - SABAR-KA-BADLA.mp3",
+            "sizeBytes": 26927656
+          }
         }
       },
       "textAsset": "yunus.txt"
@@ -232,10 +950,35 @@
     {
       "id": "zakariya",
       "order": 22,
-      "displayName": { "en": "Zakariya (Zechariah)", "ar": "زكريا", "fr": "Zacharie", "bn": "যাকারিয়া", "in": "Zakariya", "ur": "زکریا" },
+      "displayName": {
+        "en": "Zakariya (Zechariah)",
+        "ar": "زكريا",
+        "fr": "Zacharie",
+        "bn": "যাকারিয়া",
+        "in": "Zakariya",
+        "ur": "زکریا"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3", "sizeBytes": 81223749 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 81223749
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "28 - Sulayman -P2 , Ilyaas, Dhul Kifl, Zakariyyah, Yahya (as) - Mufti Menk.mp3",
+            "sizeBytes": 32777716
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "19 - Qissa_Sayyidena_Uzer_Yahyah_Zakariya - BE_MISAL-BADSHAHAT.mp3",
+            "sizeBytes": 17193862
+          }
         }
       },
       "textAsset": "zakariya.txt"
@@ -243,10 +986,35 @@
     {
       "id": "yahya",
       "order": 23,
-      "displayName": { "en": "Yahya (John)", "ar": "يحيى", "fr": "Jean", "bn": "ইয়াহইয়া", "in": "Yahya", "ur": "یحییٰ" },
+      "displayName": {
+        "en": "Yahya (John)",
+        "ar": "يحيى",
+        "fr": "Jean",
+        "bn": "ইয়াহইয়া",
+        "in": "Yahya",
+        "ur": "یحییٰ"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3", "sizeBytes": 81223749 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "09 - قصة يوشع و داوود و سليمان و زكريا و يحي (عليهما الصلاة و السلام).mp3",
+            "sizeBytes": 81223749
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "28 - Sulayman -P2 , Ilyaas, Dhul Kifl, Zakariyyah, Yahya (as) - Mufti Menk.mp3",
+            "sizeBytes": 32777716
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "19 - Qissa_Sayyidena_Uzer_Yahyah_Zakariya - BE_MISAL-BADSHAHAT.mp3",
+            "sizeBytes": 17193862
+          }
         }
       },
       "textAsset": "yahya.txt"
@@ -254,10 +1022,35 @@
     {
       "id": "isa",
       "order": 24,
-      "displayName": { "en": "Isa (Jesus)", "ar": "عيسى", "fr": "Jésus", "bn": "ঈসা", "in": "Isa", "ur": "عیسیٰ" },
+      "displayName": {
+        "en": "Isa (Jesus)",
+        "ar": "عيسى",
+        "fr": "Jésus",
+        "bn": "ঈসা",
+        "in": "Isa",
+        "ur": "عیسیٰ"
+      },
       "narrations": {
         "nabil_alawadhy": {
-          "ar": { "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets", "archiveOrgFile": "10 - قصة عيسي (عليه الصلاة و السلام).mp3", "sizeBytes": 74857052 }
+          "ar": {
+            "archiveOrgItem": "Nabil_Al_Awadi_Stories_Of_The_Prophets",
+            "archiveOrgFile": "10 - قصة عيسي (عليه الصلاة و السلام).mp3",
+            "sizeBytes": 74857052
+          }
+        },
+        "ismail_menk": {
+          "en": {
+            "archiveOrgItem": "storiesoftheprophetsbyismailmenk",
+            "archiveOrgFile": "29 - Isa (as) - Mufti Ismail Menk 1.mp3",
+            "sizeBytes": 37121280
+          }
+        },
+        "qisas_ibn_kathir_urdu": {
+          "ur": {
+            "archiveOrgItem": "Qisas-ul-Ambiya_Stories_of_the_Prophets_Urdu_Audio_MP3_CD_ISO_Image",
+            "archiveOrgFile": "20 - Qissa_Sayyidena_Isah_Jesus - QATL-KI-SAZISH.mp3",
+            "sizeBytes": 12317938
+          }
         }
       },
       "textAsset": "isa.txt"
@@ -265,7 +1058,14 @@
     {
       "id": "muhammad",
       "order": 25,
-      "displayName": { "en": "Muhammad ﷺ", "ar": "محمد ﷺ", "fr": "Muhammad ﷺ", "bn": "মুহাম্মদ ﷺ", "in": "Muhammad ﷺ", "ur": "محمد ﷺ" },
+      "displayName": {
+        "en": "Muhammad ﷺ",
+        "ar": "محمد ﷺ",
+        "fr": "Muhammad ﷺ",
+        "bn": "মুহাম্মদ ﷺ",
+        "in": "Muhammad ﷺ",
+        "ur": "محمد ﷺ"
+      },
       "narrations": {},
       "textAsset": "muhammad.txt"
     }
