@@ -1,20 +1,6 @@
 {
   "narrators": [
     {
-      "id": "suwar_sahaba",
-      "displayName": {
-        "en": "Suwar min Hayat al-Sahabah",
-        "ar": "صور من حياة الصحابة",
-        "fr": "Suwar min Hayat al-Sahabah",
-        "bn": "সুওয়ার মিন হায়াতিস সাহাবা",
-        "in": "Suwar min Hayat al-Sahabah",
-        "ur": "صور من حیات الصحابہ"
-      },
-      "languages": [
-        "ar"
-      ]
-    },
-    {
       "id": "nabil_alawadhy",
       "displayName": {
         "en": "Nabil Al-Awadhy",
@@ -23,6 +9,20 @@
         "bn": "নবীল আল-আওয়াদি",
         "in": "Nabil Al-Awadhy",
         "ur": "نبیل العوضی"
+      },
+      "languages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "suwar_sahaba",
+      "displayName": {
+        "en": "Suwar min Hayat al-Sahabah",
+        "ar": "صور من حياة الصحابة",
+        "fr": "Suwar min Hayat al-Sahabah",
+        "bn": "সুওয়ার মিন হায়াতিস সাহাবা",
+        "in": "Suwar min Hayat al-Sahabah",
+        "ur": "صور من حیات الصحابہ"
       },
       "languages": [
         "ar"
