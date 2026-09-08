@@ -1,0 +1,372 @@
+{
+  "narrators": [
+    {
+      "id": "nabil_alawadhy",
+      "displayName": {
+        "en": "Nabil Al-Awadhy",
+        "ar": "نبيل العوضي",
+        "fr": "Nabil Al-Awadhy",
+        "bn": "নবীল আল-আওয়াদি",
+        "in": "Nabil Al-Awadhy",
+        "ur": "نبیل العوضی"
+      },
+      "languages": [
+        "ar"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "harut_marut",
+      "order": 1,
+      "displayName": {
+        "en": "Harut and Marut",
+        "ar": "هاروت وماروت",
+        "fr": "Harout et Marout",
+        "bn": "হারুত ও মারুত",
+        "in": "Harut dan Marut",
+        "ur": "ہاروت و ماروت"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "01.mp3",
+            "sizeBytes": 9399466
+          }
+        }
+      },
+      "textAsset": "harut_marut.txt"
+    },
+    {
+      "id": "talut_jalut",
+      "order": 2,
+      "displayName": {
+        "en": "Talut and Jalut",
+        "ar": "طالوت وجالوت",
+        "fr": "Talut et Jalut",
+        "bn": "তালুত ও জালুত",
+        "in": "Thalut dan Jalut",
+        "ur": "طالوت و جالوت"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "02.mp3",
+            "sizeBytes": 9783361
+          }
+        }
+      },
+      "textAsset": "talut_jalut.txt"
+    },
+    {
+      "id": "people_of_sabbath",
+      "order": 3,
+      "displayName": {
+        "en": "People of the Sabbath",
+        "ar": "أصحاب السبت",
+        "fr": "Le peuple du Sabbat",
+        "bn": "সাব্বাতের অধিবাসী",
+        "in": "Kaum yang Melanggar Hari Sabtu",
+        "ur": "اصحاب سبت"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "03.mp3",
+            "sizeBytes": 10268403
+          }
+        }
+      },
+      "textAsset": "people_of_sabbath.txt"
+    },
+    {
+      "id": "balaam_baura",
+      "order": 4,
+      "displayName": {
+        "en": "Bal'am ibn Ba'ura",
+        "ar": "بلعم بن باعوراء",
+        "fr": "Bal'am ibn Ba'ura",
+        "bn": "বালআম ইবনে বাউরা",
+        "in": "Bal'am bin Ba'ura",
+        "ur": "بلعم بن باعوراء"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "04.mp3",
+            "sizeBytes": 11647355
+          }
+        }
+      },
+      "textAsset": "balaam_baura.txt"
+    },
+    {
+      "id": "people_of_cave",
+      "order": 5,
+      "displayName": {
+        "en": "People of the Cave",
+        "ar": "أصحاب الكهف",
+        "fr": "Les Gens de la Caverne",
+        "bn": "আসহাবে কাহফ",
+        "in": "Ashabul Kahfi",
+        "ur": "اصحاب کہف"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "04.mp3",
+            "sizeBytes": 11647355
+          }
+        }
+      },
+      "textAsset": "people_of_cave.txt"
+    },
+    {
+      "id": "two_gardens",
+      "order": 6,
+      "displayName": {
+        "en": "The Man with Two Gardens",
+        "ar": "صاحب الجنتين",
+        "fr": "L'homme aux deux jardins",
+        "bn": "দুই বাগানের মালিক",
+        "in": "Pemilik Dua Kebun",
+        "ur": "دو باغوں والا"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "04.mp3",
+            "sizeBytes": 11647355
+          }
+        }
+      },
+      "textAsset": "two_gardens.txt"
+    },
+    {
+      "id": "khidr_moses",
+      "order": 7,
+      "displayName": {
+        "en": "Musa and Al-Khidr",
+        "ar": "موسى والخضر",
+        "fr": "Moïse et Al-Khidr",
+        "bn": "মূসা ও খিজির",
+        "in": "Musa dan Khidir",
+        "ur": "موسیٰ اور خضر"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "05.mp3",
+            "sizeBytes": 12254336
+          }
+        }
+      },
+      "textAsset": "khidr_moses.txt"
+    },
+    {
+      "id": "dhul_qarnayn",
+      "order": 8,
+      "displayName": {
+        "en": "Dhul-Qarnayn",
+        "ar": "ذو القرنين",
+        "fr": "Dhûl-Qarnayn",
+        "bn": "যুলকারনাইন",
+        "in": "Dzulqarnain",
+        "ur": "ذوالقرنین"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "05.mp3",
+            "sizeBytes": 12254336
+          }
+        }
+      },
+      "textAsset": "dhul_qarnayn.txt"
+    },
+    {
+      "id": "yajuj_majuj",
+      "order": 9,
+      "displayName": {
+        "en": "Yajuj and Majuj",
+        "ar": "يأجوج ومأجوج",
+        "fr": "Yajuj et Majuj",
+        "bn": "ইয়াজুজ ও মাজুজ",
+        "in": "Ya'juj dan Ma'juj",
+        "ur": "یاجوج و ماجوج"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "06.mp3",
+            "sizeBytes": 9402496
+          }
+        }
+      },
+      "textAsset": "yajuj_majuj.txt"
+    },
+    {
+      "id": "qarun",
+      "order": 10,
+      "displayName": {
+        "en": "Qarun (Korah)",
+        "ar": "قارون",
+        "fr": "Qaroun",
+        "bn": "কারুন",
+        "in": "Qarun",
+        "ur": "قارون"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "06.mp3",
+            "sizeBytes": 9402496
+          }
+        }
+      },
+      "textAsset": "qarun.txt"
+    },
+    {
+      "id": "luqman",
+      "order": 11,
+      "displayName": {
+        "en": "Luqman the Wise",
+        "ar": "لقمان الحكيم",
+        "fr": "Luqman le Sage",
+        "bn": "লুকমান হাকিম",
+        "in": "Luqman Al-Hakim",
+        "ur": "لقمان حکیم"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "07.mp3",
+            "sizeBytes": 13274261
+          }
+        }
+      },
+      "textAsset": "luqman.txt"
+    },
+    {
+      "id": "queen_of_sheba",
+      "order": 12,
+      "displayName": {
+        "en": "The Queen of Sheba (Bilqis)",
+        "ar": "ملكة سبأ (بلقيس)",
+        "fr": "La Reine de Saba",
+        "bn": "সাবার রানী (বিলকিস)",
+        "in": "Ratu Balqis",
+        "ur": "ملکہ سبا (بلقیس)"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "07.mp3",
+            "sizeBytes": 13274261
+          }
+        }
+      },
+      "textAsset": "queen_of_sheba.txt"
+    },
+    {
+      "id": "people_of_village",
+      "order": 13,
+      "displayName": {
+        "en": "The People of the Village",
+        "ar": "أصحاب القرية",
+        "fr": "Les Gens du Village",
+        "bn": "জনপদবাসী",
+        "in": "Penduduk Suatu Negeri",
+        "ur": "اصحاب القریہ"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "07.mp3",
+            "sizeBytes": 13274261
+          }
+        }
+      },
+      "textAsset": "people_of_village.txt"
+    },
+    {
+      "id": "believer_of_pharaoh",
+      "order": 14,
+      "displayName": {
+        "en": "The Believer of Pharaoh's Household",
+        "ar": "مؤمن آل فرعون",
+        "fr": "Le croyant de la famille de Pharaon",
+        "bn": "ফিরআউনের পরিবারের মুমিন",
+        "in": "Mukmin Keluarga Fir'aun",
+        "ur": "آل فرعون کا مومن"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "08.mp3",
+            "sizeBytes": 16323796
+          }
+        }
+      },
+      "textAsset": "believer_of_pharaoh.txt"
+    },
+    {
+      "id": "owners_of_garden",
+      "order": 15,
+      "displayName": {
+        "en": "The Owners of the Garden",
+        "ar": "أصحاب الجنة",
+        "fr": "Les propriétaires du jardin",
+        "bn": "বাগানের মালিকগণ",
+        "in": "Pemilik Kebun",
+        "ur": "باغ والے"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "08.mp3",
+            "sizeBytes": 16323796
+          }
+        }
+      },
+      "textAsset": "owners_of_garden.txt"
+    },
+    {
+      "id": "companions_of_elephant",
+      "order": 16,
+      "displayName": {
+        "en": "The Companions of the Elephant",
+        "ar": "أصحاب الفيل",
+        "fr": "Les Compagnons de l'Éléphant",
+        "bn": "হস্তীবাহিনী (আসহাবে ফিল)",
+        "in": "Pasukan Gajah",
+        "ur": "اصحاب الفیل"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "08.mp3",
+            "sizeBytes": 16323796
+          }
+        }
+      },
+      "textAsset": "companions_of_elephant.txt"
+    }
+  ]
+}

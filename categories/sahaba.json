@@ -1,0 +1,1376 @@
+{
+  "narrators": [
+    {
+      "id": "suwar_sahaba",
+      "displayName": {
+        "en": "Suwar min Hayat al-Sahabah",
+        "ar": "صور من حياة الصحابة",
+        "fr": "Suwar min Hayat al-Sahabah",
+        "bn": "সুওয়ার মিন হায়াতিস সাহাবা",
+        "in": "Suwar min Hayat al-Sahabah",
+        "ur": "صور من حیات الصحابہ"
+      },
+      "languages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "nabil_alawadhy",
+      "displayName": {
+        "en": "Nabil Al-Awadhy",
+        "ar": "نبيل العوضي",
+        "fr": "Nabil Al-Awadhy",
+        "bn": "নবীল আল-আওয়াদি",
+        "in": "Nabil Al-Awadhy",
+        "ur": "نبیل العوضی"
+      },
+      "languages": [
+        "ar"
+      ]
+    },
+    {
+      "id": "sameer_ismail",
+      "displayName": {
+        "en": "Maulana Sameer Ismail",
+        "ar": "مولانا سمير إسماعيل",
+        "fr": "Maulana Sameer Ismail",
+        "bn": "মাওলানা সামির ইসমাইল",
+        "in": "Maulana Sameer Ismail",
+        "ur": "مولانا سمیر اسماعیل"
+      },
+      "languages": [
+        "en"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "abu_bakr",
+      "order": 1,
+      "displayName": {
+        "en": "Abu Bakr As-Siddiq",
+        "ar": "أبو بكر الصديق",
+        "fr": "Abou Bakr As-Siddiq",
+        "bn": "আবু বকর সিদ্দিক",
+        "in": "Abu Bakar Ash-Shiddiq",
+        "ur": "ابوبکر صدیق"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "02.mp3",
+            "sizeBytes": 2752577
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "1 Abu Bakr رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3517609
+          }
+        }
+      },
+      "textAsset": "abu_bakr.txt"
+    },
+    {
+      "id": "umar",
+      "order": 2,
+      "displayName": {
+        "en": "Umar ibn Al-Khattab",
+        "ar": "عمر بن الخطاب",
+        "fr": "Omar ibn Al-Khattab",
+        "bn": "উমর ইবনুল খাত্তাব",
+        "in": "Umar bin Khattab",
+        "ur": "عمر بن خطاب"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "03.mp3",
+            "sizeBytes": 2803777
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "2 Umar رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3088365
+          }
+        }
+      },
+      "textAsset": "umar.txt"
+    },
+    {
+      "id": "uthman",
+      "order": 3,
+      "displayName": {
+        "en": "Uthman ibn Affan",
+        "ar": "عثمان بن عفان",
+        "fr": "Uthman ibn Affan",
+        "bn": "উসমান ইবনে আফফান",
+        "in": "Utsman bin Affan",
+        "ur": "عثمان بن عفان"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "064 - عثمان بن عفان.mp3",
+            "sizeBytes": 20652423
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "04.mp3",
+            "sizeBytes": 2921224
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "3 Uthman رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2791196
+          }
+        }
+      },
+      "textAsset": "uthman.txt"
+    },
+    {
+      "id": "ali",
+      "order": 4,
+      "displayName": {
+        "en": "Ali ibn Abi Talib",
+        "ar": "علي بن أبي طالب",
+        "fr": "Ali ibn Abi Talib",
+        "bn": "আলী ইবনে আবি তালিব",
+        "in": "Ali bin Abi Thalib",
+        "ur": "علی ابن ابی طالب"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "05.mp3",
+            "sizeBytes": 2922164
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "4 Ali رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2904045
+          }
+        }
+      },
+      "textAsset": "ali.txt"
+    },
+    {
+      "id": "talha",
+      "order": 5,
+      "displayName": {
+        "en": "Talha ibn Ubaydullah",
+        "ar": "طلحة بن عبيد الله",
+        "fr": "Talha ibn Ubaydillah",
+        "bn": "তালহা ইবনে উবাইদুল্লাহ",
+        "in": "Thalhah bin Ubaidillah",
+        "ur": "طلحہ بن عبیداللہ"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "06.mp3",
+            "sizeBytes": 2956019
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "7 Talha ibn Ubaidullah رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2706350
+          }
+        }
+      },
+      "textAsset": "talha.txt"
+    },
+    {
+      "id": "saad_abi_waqqas",
+      "order": 6,
+      "displayName": {
+        "en": "Sa'd ibn Abi Waqqas",
+        "ar": "سعد بن أبي وقاص",
+        "fr": "Sa'd ibn Abi Waqqas",
+        "bn": "সাদ ইবনে আবি ওয়াক্কাস",
+        "in": "Sa'ad bin Abi Waqqash",
+        "ur": "سعد بن ابی وقاص"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "033 - سعد بن أبي وقاص.mp3",
+            "sizeBytes": 12718561
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "07.mp3",
+            "sizeBytes": 2749756
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "15 Saad ibn Abi Waqqas رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2590576
+          }
+        }
+      },
+      "textAsset": "saad_abi_waqqas.txt"
+    },
+    {
+      "id": "abu_ubaydah",
+      "order": 7,
+      "displayName": {
+        "en": "Abu Ubaydah ibn Al-Jarrah",
+        "ar": "أبو عبيدة بن الجراح",
+        "fr": "Abou Ubaydah ibn Al-Jarrah",
+        "bn": "আবু উবাইদাহ ইবনুল জাররাহ",
+        "in": "Abu Ubaidah bin Jarrah",
+        "ur": "ابو عبیدہ بن جراح"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "011 - أبو عبيدة بن الجراح.mp3",
+            "sizeBytes": 11894708
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "08.mp3",
+            "sizeBytes": 3046716
+          }
+        }
+      },
+      "textAsset": "abu_ubaydah.txt"
+    },
+    {
+      "id": "musab_ibn_umayr",
+      "order": 8,
+      "displayName": {
+        "en": "Mus'ab ibn Umayr",
+        "ar": "مصعب بن عمير",
+        "fr": "Mous'ab ibn Umayr",
+        "bn": "মুসআব ইবনে উমাইর",
+        "in": "Mush'ab bin Umair",
+        "ur": "مصعب بن عمیر"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "104 - مصعب بن عمير.mp3",
+            "sizeBytes": 12427502
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "09.mp3",
+            "sizeBytes": 2959990
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "12 Musab ibn Umair رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2085681
+          }
+        }
+      },
+      "textAsset": "musab_ibn_umayr.txt"
+    },
+    {
+      "id": "khabbab",
+      "order": 9,
+      "displayName": {
+        "en": "Khabbab ibn Al-Aratt",
+        "ar": "خباب بن الأرت",
+        "fr": "Khabbab ibn Al-Aratt",
+        "bn": "খাব্বাব ইবনুল আরাত",
+        "in": "Khabbab bin Al-Arat",
+        "ur": "خباب بن ارت"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "049 - خباب بن الأرت.mp3",
+            "sizeBytes": 12299981
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "10.mp3",
+            "sizeBytes": 2866889
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "11 Khabbab ibn Arat رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2757759
+          }
+        }
+      },
+      "textAsset": "khabbab.txt"
+    },
+    {
+      "id": "abdullah_ibn_masud",
+      "order": 10,
+      "displayName": {
+        "en": "Abdullah ibn Mas'ud",
+        "ar": "عبدالله بن مسعود",
+        "fr": "Abdullah ibn Mas'ud",
+        "bn": "আবদুল্লাহ ইবনে মাসউদ",
+        "in": "Abdullah bin Mas'ud",
+        "ur": "عبداللہ بن مسعود"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "012 - عبدالله بن مسعود.mp3",
+            "sizeBytes": 14430989
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "11.mp3",
+            "sizeBytes": 2917776
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "24 Abdullah ibn Masood رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2150047
+          }
+        }
+      },
+      "textAsset": "abdullah_ibn_masud.txt"
+    },
+    {
+      "id": "bilal",
+      "order": 11,
+      "displayName": {
+        "en": "Bilal ibn Rabah",
+        "ar": "بلال بن رباح",
+        "fr": "Bilal ibn Rabah",
+        "bn": "বিলাল ইবনে রাবাহ",
+        "in": "Bilal bin Rabah",
+        "ur": "بلال بن رباح"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "036 - بلال بن رباح.mp3",
+            "sizeBytes": 15434637
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "12.mp3",
+            "sizeBytes": 2965214
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "8 Bilal Ibn Rabah رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2303020
+          }
+        }
+      },
+      "textAsset": "bilal.txt"
+    },
+    {
+      "id": "hamza",
+      "order": 12,
+      "displayName": {
+        "en": "Hamza ibn Abdul-Muttalib",
+        "ar": "حمزة بن عبدالمطلب",
+        "fr": "Hamza ibn Abdul-Muttalib",
+        "bn": "হামজা ইবনে আবদুল মুত্তালিব",
+        "in": "Hamzah bin Abdul Muththalib",
+        "ur": "حمزہ بن عبدالمطلب"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "071 - حمزة بن عبدالمطلب.mp3",
+            "sizeBytes": 14248518
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "13.mp3",
+            "sizeBytes": 2853096
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "9 Hamza ibn Abdul Muttalib رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2149211
+          }
+        }
+      },
+      "textAsset": "hamza.txt"
+    },
+    {
+      "id": "ammar_ibn_yasir",
+      "order": 13,
+      "displayName": {
+        "en": "Ammar ibn Yasir",
+        "ar": "عمار بن ياسر",
+        "fr": "Ammar ibn Yasir",
+        "bn": "আম্মার ইবনে ইয়াসির",
+        "in": "Ammar bin Yasir",
+        "ur": "عمار بن یاسر"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "060 - آل ياسرم.mp3",
+            "sizeBytes": 12835432
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "14.mp3",
+            "sizeBytes": 2865531
+          }
+        }
+      },
+      "textAsset": "ammar_ibn_yasir.txt"
+    },
+    {
+      "id": "jafar_ibn_abi_talib",
+      "order": 14,
+      "displayName": {
+        "en": "Ja'far ibn Abi Talib",
+        "ar": "جعفر بن أبي طالب",
+        "fr": "Ja'far ibn Abi Talib",
+        "bn": "জাফর ইবনে আবি তালিব",
+        "in": "Ja'far bin Abi Thalib",
+        "ur": "جعفر بن ابی طالب"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "031 - جعفر بن أبي طالب.mp3",
+            "sizeBytes": 20482557
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "15.mp3",
+            "sizeBytes": 2835751
+          }
+        }
+      },
+      "textAsset": "jafar_ibn_abi_talib.txt"
+    },
+    {
+      "id": "abu_hurairah",
+      "order": 15,
+      "displayName": {
+        "en": "Abu Hurairah",
+        "ar": "أبو هريرة",
+        "fr": "Abou Hourayra",
+        "bn": "আবু হুরাইরা",
+        "in": "Abu Hurairah",
+        "ur": "ابوہریرہ"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "057 - أبو هريرة الدوسي.mp3",
+            "sizeBytes": 14675635
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "16.mp3",
+            "sizeBytes": 2918507
+          }
+        }
+      },
+      "textAsset": "abu_hurairah.txt"
+    },
+    {
+      "id": "salman_al_farisi",
+      "order": 16,
+      "displayName": {
+        "en": "Salman Al-Farisi",
+        "ar": "سلمان الفارسي",
+        "fr": "Salman Al-Farisi",
+        "bn": "সালমান আল-ফারসি",
+        "in": "Salman Al-Farisi",
+        "ur": "سلمان فارسی"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "013 - سلمان الفارسي.mp3",
+            "sizeBytes": 13095200
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "17.mp3",
+            "sizeBytes": 3045462
+          }
+        }
+      },
+      "textAsset": "salman_al_farisi.txt"
+    },
+    {
+      "id": "khalid_ibn_walid",
+      "order": 17,
+      "displayName": {
+        "en": "Khalid ibn Al-Walid",
+        "ar": "خالد بن الوليد",
+        "fr": "Khalid ibn Al-Walid",
+        "bn": "খালিদ ইবনুল ওয়ালিদ",
+        "in": "Khalid bin Walid",
+        "ur": "خالد بن ولید"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "084 - خالد بن الوليد.mp3",
+            "sizeBytes": 14451706
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "18.mp3",
+            "sizeBytes": 2513087
+          }
+        }
+      },
+      "textAsset": "khalid_ibn_walid.txt"
+    },
+    {
+      "id": "abdullah_ibn_abbas",
+      "order": 18,
+      "displayName": {
+        "en": "Abdullah ibn Abbas",
+        "ar": "عبدالله بن عباس",
+        "fr": "Abdullah ibn Abbas",
+        "bn": "আবদুল্লাহ ইবনে আব্বাস",
+        "in": "Abdullah bin Abbas",
+        "ur": "عبداللہ بن عباس"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "021 - عبدالله بن عباسما.mp3",
+            "sizeBytes": 18863421
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "19.mp3",
+            "sizeBytes": 2881936
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "30 Abdullah ibn Abbas رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2331859
+          }
+        }
+      },
+      "textAsset": "abdullah_ibn_abbas.txt"
+    },
+    {
+      "id": "muadh_ibn_jabal",
+      "order": 19,
+      "displayName": {
+        "en": "Mu'adh ibn Jabal",
+        "ar": "معاذ بن جبل",
+        "fr": "Mou'adh ibn Jabal",
+        "bn": "মুআজ ইবনে জাবাল",
+        "in": "Mu'adz bin Jabal",
+        "ur": "معاذ بن جبل"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "059 - معاذ بن جبل.mp3",
+            "sizeBytes": 12280187
+          }
+        },
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "20.mp3",
+            "sizeBytes": 3145041
+          }
+        }
+      },
+      "textAsset": "muadh_ibn_jabal.txt"
+    },
+    {
+      "id": "khadijah",
+      "order": 20,
+      "displayName": {
+        "en": "Khadijah bint Khuwaylid",
+        "ar": "خديجة بنت خويلد",
+        "fr": "Khadija bint Khuwaylid",
+        "bn": "খাদিজা বিনতে খুওয়াইলিদ",
+        "in": "Khadijah binti Khuwailid",
+        "ur": "خدیجہ بنت خویلد"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "21.mp3",
+            "sizeBytes": 2923105
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "19 Khadija bint Khuwalid رضي الله عنها - Sahaaba Series.mp3",
+            "sizeBytes": 1993730
+          }
+        }
+      },
+      "textAsset": "khadijah.txt"
+    },
+    {
+      "id": "fatima",
+      "order": 21,
+      "displayName": {
+        "en": "Fatimah Az-Zahra",
+        "ar": "فاطمة الزهراء",
+        "fr": "Fatima Az-Zahra",
+        "bn": "ফাতিমা আয-যাহরা",
+        "in": "Fathimah Az-Zahra",
+        "ur": "فاطمہ الزہرا"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "22.mp3",
+            "sizeBytes": 2940032
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "20 Fatima bint Muhammed رضي الله عنها - Sahaaba Series.mp3",
+            "sizeBytes": 1993730
+          }
+        }
+      },
+      "textAsset": "fatima.txt"
+    },
+    {
+      "id": "aisha",
+      "order": 22,
+      "displayName": {
+        "en": "Aisha bint Abi Bakr",
+        "ar": "عائشة بنت أبي بكر",
+        "fr": "Aïcha bint Abi Bakr",
+        "bn": "আয়েশা বিনতে আবু বকর",
+        "in": "Aisyah binti Abu Bakar",
+        "ur": "عائشہ بنت ابی بکر"
+      },
+      "narrations": {
+        "nabil_alawadhy": {
+          "ar": {
+            "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
+            "archiveOrgFile": "23.mp3",
+            "sizeBytes": 2989978
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "21 Aisha رضي الله عنها - Sahaaba Series.mp3",
+            "sizeBytes": 1993730
+          }
+        }
+      },
+      "textAsset": "aisha.txt"
+    },
+    {
+      "id": "bara_ibn_malik",
+      "order": 23,
+      "displayName": {
+        "en": "Al-Bara' ibn Malik",
+        "ar": "البراء بن مالك",
+        "fr": "Al-Bara' ibn Malik",
+        "bn": "বারা ইবনে মালিক",
+        "in": "Al-Bara' bin Malik",
+        "ur": "براء بن مالک"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "006 - البراء بن مالك الأنصاري.mp3",
+            "sizeBytes": 10897506
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "5 Bara ibn Malik رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3522207
+          }
+        }
+      },
+      "textAsset": "bara_ibn_malik.txt"
+    },
+    {
+      "id": "amr_ibn_jamuh",
+      "order": 24,
+      "displayName": {
+        "en": "Amr ibn Al-Jamuh",
+        "ar": "عمرو بن الجموح",
+        "fr": "Amr ibn Al-Jamuh",
+        "bn": "আমর ইবনুল জামুহ",
+        "in": "Amr bin Jamuh",
+        "ur": "عمرو بن جموح"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "009 - عمرو بن الجموح.mp3",
+            "sizeBytes": 12046434
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "6 Amr ibn Jamooh رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2044303
+          }
+        }
+      },
+      "textAsset": "amr_ibn_jamuh.txt"
+    },
+    {
+      "id": "abu_ayyub_ansari",
+      "order": 25,
+      "displayName": {
+        "en": "Abu Ayyub Al-Ansari",
+        "ar": "أبو أيوب الأنصاري",
+        "fr": "Abou Ayyub Al-Ansari",
+        "bn": "আবু আইয়ুব আনসারি",
+        "in": "Abu Ayyub Al-Anshari",
+        "ur": "ابو ایوب انصاری"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "008 - أبو أيوب الأنصاري.mp3",
+            "sizeBytes": 14667647
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "10 Abu Ayyub al Ansari رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2463516
+          }
+        }
+      },
+      "textAsset": "abu_ayyub_ansari.txt"
+    },
+    {
+      "id": "zubayr_ibn_awwam",
+      "order": 26,
+      "displayName": {
+        "en": "Az-Zubayr ibn Al-Awwam",
+        "ar": "الزبير بن العوام",
+        "fr": "Az-Zubayr ibn Al-Awwam",
+        "bn": "যুবাইর ইবনুল আওয়াম",
+        "in": "Zubair bin Awwam",
+        "ur": "زبیر بن عوام"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "082 - الزبير بن العوام.mp3",
+            "sizeBytes": 14330089
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "13 Zubair ibn Awwam رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2085681
+          }
+        }
+      },
+      "textAsset": "zubayr_ibn_awwam.txt"
+    },
+    {
+      "id": "abdul_rahman_ibn_awf",
+      "order": 27,
+      "displayName": {
+        "en": "Abdul Rahman ibn Awf",
+        "ar": "عبدالرحمن بن عوف",
+        "fr": "Abdul Rahman ibn Awf",
+        "bn": "আবদুর রহমান ইবনে আউফ",
+        "in": "Abdurrahman bin Auf",
+        "ur": "عبدالرحمن بن عوف"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "030 - عبدالرحمن بن عوف.mp3",
+            "sizeBytes": 13581767
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "14 Abdul rahman ibn Awf رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2442618
+          }
+        }
+      },
+      "textAsset": "abdul_rahman_ibn_awf.txt"
+    },
+    {
+      "id": "saeed_ibn_zayd",
+      "order": 28,
+      "displayName": {
+        "en": "Sa'eed ibn Zayd",
+        "ar": "سعيد بن زيد",
+        "fr": "Sa'id ibn Zayd",
+        "bn": "সাঈদ ইবনে যায়েদ",
+        "in": "Sa'id bin Zaid",
+        "ur": "سعید بن زید"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "027 - سعيد بن زيد.mp3",
+            "sizeBytes": 11344860
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "16 Said ibn Zaid رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2955036
+          }
+        }
+      },
+      "textAsset": "saeed_ibn_zayd.txt"
+    },
+    {
+      "id": "abu_dujana",
+      "order": 29,
+      "displayName": {
+        "en": "Abu Dujana",
+        "ar": "أبو دجانة",
+        "fr": "Abou Dujana",
+        "bn": "আবু দুজানা",
+        "in": "Abu Dujanah",
+        "ur": "ابو دجانہ"
+      },
+      "narrations": {
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "17 Abu Dujana رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 1872940
+          }
+        }
+      },
+      "textAsset": "abu_dujana.txt"
+    },
+    {
+      "id": "abdullah_ibn_rawaha",
+      "order": 30,
+      "displayName": {
+        "en": "Abdullah ibn Rawaha",
+        "ar": "عبدالله بن رواحة",
+        "fr": "Abdullah ibn Rawaha",
+        "bn": "আবদুল্লাহ ইবনে রাওয়াহা",
+        "in": "Abdullah bin Rawahah",
+        "ur": "عبداللہ بن رواحہ"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "067 - عبدالله بن رواحة.mp3",
+            "sizeBytes": 11605813
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "22 Abdullah ibn Rawaha رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 1801887
+          }
+        }
+      },
+      "textAsset": "abdullah_ibn_rawaha.txt"
+    },
+    {
+      "id": "asma_bint_abi_bakr",
+      "order": 31,
+      "displayName": {
+        "en": "Asma bint Abi Bakr",
+        "ar": "أسماء بنت أبي بكر",
+        "fr": "Asma bint Abi Bakr",
+        "bn": "আসমা বিনতে আবু বকর",
+        "in": "Asma binti Abu Bakar",
+        "ur": "اسماء بنت ابی بکر"
+      },
+      "narrations": {
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "23 Asma bint Abi Bakar رضي الله عنها - Sahaaba Series.mp3",
+            "sizeBytes": 2344398
+          }
+        }
+      },
+      "textAsset": "asma_bint_abi_bakr.txt"
+    },
+    {
+      "id": "thumama_ibn_uthal",
+      "order": 32,
+      "displayName": {
+        "en": "Thumamah ibn Uthal",
+        "ar": "ثمامة بن أثال",
+        "fr": "Thoumama ibn Uthal",
+        "bn": "সুমামা ইবনে উসাল",
+        "in": "Tsumamah bin Utsal",
+        "ur": "ثمامہ بن اثال"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "007 - ثمامة بن أثال.mp3",
+            "sizeBytes": 12569699
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "25 Thumama ibn Uthaal رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3140192
+          }
+        }
+      },
+      "textAsset": "thumama_ibn_uthal.txt"
+    },
+    {
+      "id": "umayr_ibn_wahb",
+      "order": 33,
+      "displayName": {
+        "en": "Umayr ibn Wahb",
+        "ar": "عمير بن وهب",
+        "fr": "Umayr ibn Wahb",
+        "bn": "উমাইর ইবনে ওয়াহব",
+        "in": "Umair bin Wahb",
+        "ur": "عمیر بن وہب"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "005 - عمير بن وهب.mp3",
+            "sizeBytes": 10938833
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "26 Umair ibn Wahab رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3140192
+          }
+        }
+      },
+      "textAsset": "umayr_ibn_wahb.txt"
+    },
+    {
+      "id": "saeed_ibn_amir",
+      "order": 34,
+      "displayName": {
+        "en": "Sa'eed ibn Amir",
+        "ar": "سعيد بن عامر الجمحي",
+        "fr": "Sa'id ibn Amir",
+        "bn": "সাঈদ ইবনে আমির",
+        "in": "Sa'id bin Amir",
+        "ur": "سعید بن عامر"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "002 - سعيد بن عامر الجمحي.mp3",
+            "sizeBytes": 13533787
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "27 Saeed ibn Aamir رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3257220
+          }
+        }
+      },
+      "textAsset": "saeed_ibn_amir.txt"
+    },
+    {
+      "id": "abdullah_ibn_hudhafah",
+      "order": 35,
+      "displayName": {
+        "en": "Abdullah ibn Hudhafah",
+        "ar": "عبدالله بن حذافة السهمي",
+        "fr": "Abdullah ibn Hudhafah",
+        "bn": "আবদুল্লাহ ইবনে হুযাফা",
+        "in": "Abdullah bin Hudzafah",
+        "ur": "عبداللہ بن حذافہ"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "004 - عبدالله بن حذافة السهمي.mp3",
+            "sizeBytes": 14846742
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "28 Abdullah ibn Huzafah رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 3257220
+          }
+        }
+      },
+      "textAsset": "abdullah_ibn_hudhafah.txt"
+    },
+    {
+      "id": "abdullah_ibn_jahsh",
+      "order": 36,
+      "displayName": {
+        "en": "Abdullah ibn Jahsh",
+        "ar": "عبدالله بن جحش",
+        "fr": "Abdullah ibn Jahsh",
+        "bn": "আবদুল্লাহ ইবনে জাহশ",
+        "in": "Abdullah bin Jahsy",
+        "ur": "عبداللہ بن جحش"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "010 - عبدالله بن جحش.mp3",
+            "sizeBytes": 11905926
+          }
+        },
+        "sameer_ismail": {
+          "en": {
+            "archiveOrgItem": "ShortstorieSahabah",
+            "archiveOrgFile": "29 Abdullah ibn Jahash رضي الله عنه - Sahaaba Series.mp3",
+            "sizeBytes": 2082337
+          }
+        }
+      },
+      "textAsset": "abdullah_ibn_jahsh.txt"
+    },
+    {
+      "id": "abu_dharr_al_ghifari",
+      "order": 37,
+      "displayName": {
+        "en": "Abu Dharr Al-Ghifari",
+        "ar": "أبو ذر الغفاري",
+        "fr": "Abou Dharr Al-Ghifari",
+        "bn": "আবু জর গিফারি",
+        "in": "Abu Dzar Al-Ghifari",
+        "ur": "ابوذر غفاری"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "017 - أبو ذر الغفاري.mp3",
+            "sizeBytes": 12241765
+          }
+        }
+      },
+      "textAsset": "abu_dharr_al_ghifari.txt"
+    },
+    {
+      "id": "suhaib_al_rumi",
+      "order": 38,
+      "displayName": {
+        "en": "Suhaib Ar-Rumi",
+        "ar": "صهيب الرومي",
+        "fr": "Souhaib Ar-Roumi",
+        "bn": "সুহাইব আর-রুমি",
+        "in": "Shuhaib Ar-Rumi",
+        "ur": "صہیب رومی"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "023 - صهيب الرومي.mp3",
+            "sizeBytes": 10868402
+          }
+        }
+      },
+      "textAsset": "suhaib_al_rumi.txt"
+    },
+    {
+      "id": "hudhayfah_ibn_al_yaman",
+      "order": 39,
+      "displayName": {
+        "en": "Hudhayfah ibn Al-Yaman",
+        "ar": "حذيفة بن اليمان",
+        "fr": "Hudhayfah ibn Al-Yaman",
+        "bn": "হুযাইফা ইবনুল ইয়ামান",
+        "in": "Hudzaifah bin Al-Yaman",
+        "ur": "حذیفہ بن یمان"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "034 - حذيفة بن اليمان.mp3",
+            "sizeBytes": 15520813
+          }
+        }
+      },
+      "textAsset": "hudhayfah_ibn_al_yaman.txt"
+    },
+    {
+      "id": "zayd_ibn_thabit",
+      "order": 40,
+      "displayName": {
+        "en": "Zayd ibn Thabit",
+        "ar": "زيد بن ثابت الأنصاري",
+        "fr": "Zayd ibn Thabit",
+        "bn": "যায়েদ ইবনে সাবিত",
+        "in": "Zaid bin Tsabit",
+        "ur": "زید بن ثابت"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "042 - زيد بن ثابت الأنصاري.mp3",
+            "sizeBytes": 10384085
+          }
+        }
+      },
+      "textAsset": "zayd_ibn_thabit.txt"
+    },
+    {
+      "id": "amr_ibn_al_as",
+      "order": 41,
+      "displayName": {
+        "en": "Amr ibn Al-As",
+        "ar": "عمرو بن العاص",
+        "fr": "Amr ibn Al-As",
+        "bn": "আমর ইবনুল আস",
+        "in": "Amr bin Al-Ash",
+        "ur": "عمرو بن العاص"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "065 - عمرو بن العاص.mp3",
+            "sizeBytes": 16377099
+          }
+        }
+      },
+      "textAsset": "amr_ibn_al_as.txt"
+    },
+    {
+      "id": "abdullah_ibn_zubayr",
+      "order": 42,
+      "displayName": {
+        "en": "Abdullah ibn Az-Zubayr",
+        "ar": "عبدالله بن الزبير",
+        "fr": "Abdullah ibn Az-Zubayr",
+        "bn": "আবদুল্লাহ ইবনে যুবাইর",
+        "in": "Abdullah bin Zubair",
+        "ur": "عبداللہ بن زبیر"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "077 - عبدالله بن الزبير.mp3",
+            "sizeBytes": 13054079
+          }
+        }
+      },
+      "textAsset": "abdullah_ibn_zubayr.txt"
+    },
+    {
+      "id": "abbas_ibn_abdul_muttalib",
+      "order": 43,
+      "displayName": {
+        "en": "Al-Abbas ibn Abdul-Muttalib",
+        "ar": "العباس بن عبدالمطلب",
+        "fr": "Al-Abbas ibn Abdul-Muttalib",
+        "bn": "আব্বাস ইবনে আবদুল মুত্তালিব",
+        "in": "Abbas bin Abdul Muththalib",
+        "ur": "عباس بن عبدالمطلب"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "093 - العباس بن عبدالمطلب.mp3",
+            "sizeBytes": 14562452
+          }
+        }
+      },
+      "textAsset": "abbas_ibn_abdul_muttalib.txt"
+    },
+    {
+      "id": "zayd_ibn_harithah",
+      "order": 44,
+      "displayName": {
+        "en": "Zayd ibn Harithah",
+        "ar": "زيد بن حارثة",
+        "fr": "Zayd ibn Harithah",
+        "bn": "যায়েদ ইবনে হারিসা",
+        "in": "Zaid bin Haritsah",
+        "ur": "زید بن حارثہ"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "025 - زيد بن حارثة.mp3",
+            "sizeBytes": 13130443
+          }
+        }
+      },
+      "textAsset": "zayd_ibn_harithah.txt"
+    },
+    {
+      "id": "usama_ibn_zayd",
+      "order": 45,
+      "displayName": {
+        "en": "Usama ibn Zayd",
+        "ar": "أسامة بن زيد",
+        "fr": "Usama ibn Zayd",
+        "bn": "উসামা ইবনে যায়েদ",
+        "in": "Usamah bin Zaid",
+        "ur": "اسامہ بن زید"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "026 - أسامة بن زيد.mp3",
+            "sizeBytes": 13201034
+          }
+        }
+      },
+      "textAsset": "usama_ibn_zayd.txt"
+    },
+    {
+      "id": "mughirah_ibn_shubah",
+      "order": 46,
+      "displayName": {
+        "en": "Al-Mughirah ibn Shu'bah",
+        "ar": "المغيرة بن شعبة",
+        "fr": "Al-Mughirah ibn Shu'bah",
+        "bn": "মুগিরা ইবনে শুবা",
+        "in": "Mughirah bin Syu'bah",
+        "ur": "مغیرہ بن شعبہ"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "102 - المغيرة بن شعبة.mp3",
+            "sizeBytes": 12579253
+          }
+        }
+      },
+      "textAsset": "mughirah_ibn_shubah.txt"
+    },
+    {
+      "id": "ubadah_ibn_samit",
+      "order": 47,
+      "displayName": {
+        "en": "Ubadah ibn As-Samit",
+        "ar": "عبادة بن الصامت",
+        "fr": "Ubadah ibn As-Samit",
+        "bn": "উবাদা ইবনুস সামিত",
+        "in": "Ubadah bin Shamit",
+        "ur": "عبادہ بن صامت"
+      },
+      "narrations": {
+        "suwar_sahaba": {
+          "ar": {
+            "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
+            "archiveOrgFile": "091 - عبادة بن الصامت.mp3",
+            "sizeBytes": 12934913
+          }
+        }
+      },
+      "textAsset": "ubadah_ibn_samit.txt"
+    }
+  ]
+}
