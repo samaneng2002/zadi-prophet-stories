@@ -32,7 +32,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "01.mp3",
-            "sizeBytes": 9399466
+            "sizeBytes": 9399466,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__harut_marut__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -54,7 +57,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "02.mp3",
-            "sizeBytes": 9783361
+            "sizeBytes": 9783361,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__talut_jalut__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -76,7 +82,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "03.mp3",
-            "sizeBytes": 10268403
+            "sizeBytes": 10268403,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__people_of_sabbath__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -98,7 +107,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "04.mp3",
-            "sizeBytes": 11647355
+            "sizeBytes": 11647355,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__balaam_baura__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -120,7 +132,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "04.mp3",
-            "sizeBytes": 11647355
+            "sizeBytes": 11647355,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__people_of_cave__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -142,7 +157,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "04.mp3",
-            "sizeBytes": 11647355
+            "sizeBytes": 11647355,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__two_gardens__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -164,7 +182,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "05.mp3",
-            "sizeBytes": 12254336
+            "sizeBytes": 12254336,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__khidr_moses__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -186,7 +207,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "05.mp3",
-            "sizeBytes": 12254336
+            "sizeBytes": 12254336,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__dhul_qarnayn__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -208,7 +232,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "06.mp3",
-            "sizeBytes": 9402496
+            "sizeBytes": 9402496,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__yajuj_majuj__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -230,7 +257,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "06.mp3",
-            "sizeBytes": 9402496
+            "sizeBytes": 9402496,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__qarun__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -252,7 +282,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "07.mp3",
-            "sizeBytes": 13274261
+            "sizeBytes": 13274261,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__luqman__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -274,7 +307,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "07.mp3",
-            "sizeBytes": 13274261
+            "sizeBytes": 13274261,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__queen_of_sheba__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -296,7 +332,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "07.mp3",
-            "sizeBytes": 13274261
+            "sizeBytes": 13274261,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__people_of_village__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -318,7 +357,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "08.mp3",
-            "sizeBytes": 16323796
+            "sizeBytes": 16323796,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__believer_of_pharaoh__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -340,7 +382,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "08.mp3",
-            "sizeBytes": 16323796
+            "sizeBytes": 16323796,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__owners_of_garden__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -362,7 +407,10 @@
           "ar": {
             "archiveOrgItem": "KassasEl-quran_sheikhNabilAl3awadhy",
             "archiveOrgFile": "08.mp3",
-            "sizeBytes": 16323796
+            "sizeBytes": 16323796,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/quran_stories__companions_of_elephant__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },

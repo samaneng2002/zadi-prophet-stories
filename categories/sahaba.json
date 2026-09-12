@@ -60,14 +60,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "02.mp3",
-            "sizeBytes": 2752577
+            "sizeBytes": 2752577,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_bakr__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "1 Abu Bakr رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3517609
+            "sizeBytes": 3517609,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_bakr__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -89,14 +95,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "03.mp3",
-            "sizeBytes": 2803777
+            "sizeBytes": 2803777,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__umar__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "2 Umar رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3088365
+            "sizeBytes": 3088365,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__umar__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -118,21 +130,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "064 - عثمان بن عفان.mp3",
-            "sizeBytes": 20652423
+            "sizeBytes": 20652423,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__uthman__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "04.mp3",
-            "sizeBytes": 2921224
+            "sizeBytes": 2921224,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__uthman__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "3 Uthman رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2791196
+            "sizeBytes": 2791196,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__uthman__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -154,14 +175,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "05.mp3",
-            "sizeBytes": 2922164
+            "sizeBytes": 2922164,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__ali__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "4 Ali رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2904045
+            "sizeBytes": 2904045,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__ali__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -183,14 +210,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "06.mp3",
-            "sizeBytes": 2956019
+            "sizeBytes": 2956019,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__talha__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "7 Talha ibn Ubaidullah رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2706350
+            "sizeBytes": 2706350,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__talha__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -212,21 +245,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "033 - سعد بن أبي وقاص.mp3",
-            "sizeBytes": 12718561
+            "sizeBytes": 12718561,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saad_abi_waqqas__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "07.mp3",
-            "sizeBytes": 2749756
+            "sizeBytes": 2749756,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saad_abi_waqqas__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "15 Saad ibn Abi Waqqas رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2590576
+            "sizeBytes": 2590576,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saad_abi_waqqas__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -248,14 +290,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "011 - أبو عبيدة بن الجراح.mp3",
-            "sizeBytes": 11894708
+            "sizeBytes": 11894708,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_ubaydah__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "08.mp3",
-            "sizeBytes": 3046716
+            "sizeBytes": 3046716,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_ubaydah__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -277,21 +325,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "104 - مصعب بن عمير.mp3",
-            "sizeBytes": 12427502
+            "sizeBytes": 12427502,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__musab_ibn_umayr__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "09.mp3",
-            "sizeBytes": 2959990
+            "sizeBytes": 2959990,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__musab_ibn_umayr__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "12 Musab ibn Umair رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2085681
+            "sizeBytes": 2085681,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__musab_ibn_umayr__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -313,21 +370,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "049 - خباب بن الأرت.mp3",
-            "sizeBytes": 12299981
+            "sizeBytes": 12299981,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khabbab__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "10.mp3",
-            "sizeBytes": 2866889
+            "sizeBytes": 2866889,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khabbab__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "11 Khabbab ibn Arat رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2757759
+            "sizeBytes": 2757759,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khabbab__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -349,21 +415,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "012 - عبدالله بن مسعود.mp3",
-            "sizeBytes": 14430989
+            "sizeBytes": 14430989,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_masud__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "11.mp3",
-            "sizeBytes": 2917776
+            "sizeBytes": 2917776,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_masud__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "24 Abdullah ibn Masood رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2150047
+            "sizeBytes": 2150047,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_masud__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -385,21 +460,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "036 - بلال بن رباح.mp3",
-            "sizeBytes": 15434637
+            "sizeBytes": 15434637,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__bilal__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "12.mp3",
-            "sizeBytes": 2965214
+            "sizeBytes": 2965214,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__bilal__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "8 Bilal Ibn Rabah رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2303020
+            "sizeBytes": 2303020,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__bilal__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -421,21 +505,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "071 - حمزة بن عبدالمطلب.mp3",
-            "sizeBytes": 14248518
+            "sizeBytes": 14248518,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__hamza__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "13.mp3",
-            "sizeBytes": 2853096
+            "sizeBytes": 2853096,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__hamza__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "9 Hamza ibn Abdul Muttalib رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2149211
+            "sizeBytes": 2149211,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__hamza__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -457,14 +550,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "060 - آل ياسرم.mp3",
-            "sizeBytes": 12835432
+            "sizeBytes": 12835432,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__ammar_ibn_yasir__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "14.mp3",
-            "sizeBytes": 2865531
+            "sizeBytes": 2865531,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__ammar_ibn_yasir__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -486,14 +585,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "031 - جعفر بن أبي طالب.mp3",
-            "sizeBytes": 20482557
+            "sizeBytes": 20482557,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__jafar_ibn_abi_talib__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "15.mp3",
-            "sizeBytes": 2835751
+            "sizeBytes": 2835751,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__jafar_ibn_abi_talib__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -515,14 +620,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "057 - أبو هريرة الدوسي.mp3",
-            "sizeBytes": 14675635
+            "sizeBytes": 14675635,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_hurairah__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "16.mp3",
-            "sizeBytes": 2918507
+            "sizeBytes": 2918507,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_hurairah__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -544,14 +655,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "013 - سلمان الفارسي.mp3",
-            "sizeBytes": 13095200
+            "sizeBytes": 13095200,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__salman_al_farisi__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "17.mp3",
-            "sizeBytes": 3045462
+            "sizeBytes": 3045462,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__salman_al_farisi__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -573,14 +690,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "084 - خالد بن الوليد.mp3",
-            "sizeBytes": 14451706
+            "sizeBytes": 14451706,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khalid_ibn_walid__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "18.mp3",
-            "sizeBytes": 2513087
+            "sizeBytes": 2513087,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khalid_ibn_walid__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -602,21 +725,30 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "021 - عبدالله بن عباسما.mp3",
-            "sizeBytes": 18863421
+            "sizeBytes": 18863421,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_abbas__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "19.mp3",
-            "sizeBytes": 2881936
+            "sizeBytes": 2881936,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_abbas__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "30 Abdullah ibn Abbas رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2331859
+            "sizeBytes": 2331859,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_abbas__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -638,14 +770,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "059 - معاذ بن جبل.mp3",
-            "sizeBytes": 12280187
+            "sizeBytes": 12280187,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__muadh_ibn_jabal__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "nabil_alawadhy": {
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "20.mp3",
-            "sizeBytes": 3145041
+            "sizeBytes": 3145041,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__muadh_ibn_jabal__nabil_alawadhy-ar.mp3"
+            ]
           }
         }
       },
@@ -667,14 +805,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "21.mp3",
-            "sizeBytes": 2923105
+            "sizeBytes": 2923105,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khadijah__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "19 Khadija bint Khuwalid رضي الله عنها - Sahaaba Series.mp3",
-            "sizeBytes": 1993730
+            "sizeBytes": 1993730,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__khadijah__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -696,14 +840,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "22.mp3",
-            "sizeBytes": 2940032
+            "sizeBytes": 2940032,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__fatima__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "20 Fatima bint Muhammed رضي الله عنها - Sahaaba Series.mp3",
-            "sizeBytes": 1993730
+            "sizeBytes": 1993730,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__fatima__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -725,14 +875,20 @@
           "ar": {
             "archiveOrgItem": "Charsiat_sheikhNabilAl3awadhy",
             "archiveOrgFile": "23.mp3",
-            "sizeBytes": 2989978
+            "sizeBytes": 2989978,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__aisha__nabil_alawadhy-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "21 Aisha رضي الله عنها - Sahaaba Series.mp3",
-            "sizeBytes": 1993730
+            "sizeBytes": 1993730,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__aisha__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -754,14 +910,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "006 - البراء بن مالك الأنصاري.mp3",
-            "sizeBytes": 10897506
+            "sizeBytes": 10897506,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__bara_ibn_malik__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "5 Bara ibn Malik رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3522207
+            "sizeBytes": 3522207,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__bara_ibn_malik__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -783,14 +945,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "009 - عمرو بن الجموح.mp3",
-            "sizeBytes": 12046434
+            "sizeBytes": 12046434,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__amr_ibn_jamuh__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "6 Amr ibn Jamooh رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2044303
+            "sizeBytes": 2044303,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__amr_ibn_jamuh__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -812,14 +980,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "008 - أبو أيوب الأنصاري.mp3",
-            "sizeBytes": 14667647
+            "sizeBytes": 14667647,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_ayyub_ansari__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "10 Abu Ayyub al Ansari رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2463516
+            "sizeBytes": 2463516,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_ayyub_ansari__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -841,14 +1015,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "082 - الزبير بن العوام.mp3",
-            "sizeBytes": 14330089
+            "sizeBytes": 14330089,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__zubayr_ibn_awwam__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "13 Zubair ibn Awwam رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2085681
+            "sizeBytes": 2085681,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__zubayr_ibn_awwam__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -870,14 +1050,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "030 - عبدالرحمن بن عوف.mp3",
-            "sizeBytes": 13581767
+            "sizeBytes": 13581767,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdul_rahman_ibn_awf__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "14 Abdul rahman ibn Awf رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2442618
+            "sizeBytes": 2442618,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdul_rahman_ibn_awf__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -899,14 +1085,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "027 - سعيد بن زيد.mp3",
-            "sizeBytes": 11344860
+            "sizeBytes": 11344860,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saeed_ibn_zayd__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "16 Said ibn Zaid رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2955036
+            "sizeBytes": 2955036,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saeed_ibn_zayd__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -928,7 +1120,10 @@
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "17 Abu Dujana رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 1872940
+            "sizeBytes": 1872940,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_dujana__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -950,14 +1145,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "067 - عبدالله بن رواحة.mp3",
-            "sizeBytes": 11605813
+            "sizeBytes": 11605813,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_rawaha__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "22 Abdullah ibn Rawaha رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 1801887
+            "sizeBytes": 1801887,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_rawaha__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -979,7 +1180,10 @@
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "23 Asma bint Abi Bakar رضي الله عنها - Sahaaba Series.mp3",
-            "sizeBytes": 2344398
+            "sizeBytes": 2344398,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__asma_bint_abi_bakr__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -1001,14 +1205,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "007 - ثمامة بن أثال.mp3",
-            "sizeBytes": 12569699
+            "sizeBytes": 12569699,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__thumama_ibn_uthal__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "25 Thumama ibn Uthaal رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3140192
+            "sizeBytes": 3140192,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__thumama_ibn_uthal__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -1030,14 +1240,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "005 - عمير بن وهب.mp3",
-            "sizeBytes": 10938833
+            "sizeBytes": 10938833,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__umayr_ibn_wahb__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "26 Umair ibn Wahab رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3140192
+            "sizeBytes": 3140192,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__umayr_ibn_wahb__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -1059,14 +1275,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "002 - سعيد بن عامر الجمحي.mp3",
-            "sizeBytes": 13533787
+            "sizeBytes": 13533787,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saeed_ibn_amir__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "27 Saeed ibn Aamir رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3257220
+            "sizeBytes": 3257220,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__saeed_ibn_amir__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -1088,14 +1310,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "004 - عبدالله بن حذافة السهمي.mp3",
-            "sizeBytes": 14846742
+            "sizeBytes": 14846742,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_hudhafah__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "28 Abdullah ibn Huzafah رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 3257220
+            "sizeBytes": 3257220,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_hudhafah__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -1117,14 +1345,20 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "010 - عبدالله بن جحش.mp3",
-            "sizeBytes": 11905926
+            "sizeBytes": 11905926,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_jahsh__suwar_sahaba-ar.mp3"
+            ]
           }
         },
         "sameer_ismail": {
           "en": {
             "archiveOrgItem": "ShortstorieSahabah",
             "archiveOrgFile": "29 Abdullah ibn Jahash رضي الله عنه - Sahaaba Series.mp3",
-            "sizeBytes": 2082337
+            "sizeBytes": 2082337,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_jahsh__sameer_ismail-en.mp3"
+            ]
           }
         }
       },
@@ -1146,7 +1380,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "017 - أبو ذر الغفاري.mp3",
-            "sizeBytes": 12241765
+            "sizeBytes": 12241765,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abu_dharr_al_ghifari__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1168,7 +1405,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "023 - صهيب الرومي.mp3",
-            "sizeBytes": 10868402
+            "sizeBytes": 10868402,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__suhaib_al_rumi__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1190,7 +1430,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "034 - حذيفة بن اليمان.mp3",
-            "sizeBytes": 15520813
+            "sizeBytes": 15520813,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__hudhayfah_ibn_al_yaman__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1212,7 +1455,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "042 - زيد بن ثابت الأنصاري.mp3",
-            "sizeBytes": 10384085
+            "sizeBytes": 10384085,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__zayd_ibn_thabit__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1234,7 +1480,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "065 - عمرو بن العاص.mp3",
-            "sizeBytes": 16377099
+            "sizeBytes": 16377099,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__amr_ibn_al_as__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1256,7 +1505,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "077 - عبدالله بن الزبير.mp3",
-            "sizeBytes": 13054079
+            "sizeBytes": 13054079,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abdullah_ibn_zubayr__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1278,7 +1530,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "093 - العباس بن عبدالمطلب.mp3",
-            "sizeBytes": 14562452
+            "sizeBytes": 14562452,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__abbas_ibn_abdul_muttalib__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1300,7 +1555,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "025 - زيد بن حارثة.mp3",
-            "sizeBytes": 13130443
+            "sizeBytes": 13130443,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__zayd_ibn_harithah__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1322,7 +1580,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "026 - أسامة بن زيد.mp3",
-            "sizeBytes": 13201034
+            "sizeBytes": 13201034,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__usama_ibn_zayd__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1344,7 +1605,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "102 - المغيرة بن شعبة.mp3",
-            "sizeBytes": 12579253
+            "sizeBytes": 12579253,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__mughirah_ibn_shubah__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
@@ -1366,7 +1630,10 @@
           "ar": {
             "archiveOrgItem": "Sowar.mn.Hayat.Sehaba",
             "archiveOrgFile": "091 - عبادة بن الصامت.mp3",
-            "sizeBytes": 12934913
+            "sizeBytes": 12934913,
+            "mirrors": [
+              "https://github.com/samaneng2002/zadi-prophet-stories/releases/download/story-audio-v1/sahaba__ubadah_ibn_samit__suwar_sahaba-ar.mp3"
+            ]
           }
         }
       },
